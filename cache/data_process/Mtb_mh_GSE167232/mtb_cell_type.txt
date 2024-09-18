@@ -1,0 +1,15 @@
+cell_type,sub_cell_type_1,seurat_clusters_article
+macrophage,AM_1,0
+macrophage,IM_3,1
+macrophage,AM_2,2
+macrophage,IM_2,3
+macrophage,IM_1,4
+macrophage,AM_3,5
+macrophage,AM_4,6
+macrophage,IM_4,7
+monocyte,monocyte,8
+neutrophil,neutrophil,9
+dendritic cell,dendritic cell,10
+lymphocyte,lymphocyte,11
+lymphocyte,lymphocyte,12
+lymphocyte,lymphocyte,13

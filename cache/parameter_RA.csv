@@ -1,0 +1,2 @@
+path_ref,name_ref,sp_simple_ref,sp_ref,tissue,path_que,name_que,sp_simple_que,sp_que,key_cell_type
+disease/RA_h_fibroblast_Amp-Phase-1,RAhfib,h,human,RA,disease/RA_m_fibroblast_GSE145286,RAmfib,m,mouse,sub_cell_type

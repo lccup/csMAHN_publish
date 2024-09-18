@@ -1,0 +1,17 @@
+cell_type,sub_cell_type_1,seurat_clusters_article
+macrophage,AM_1,0
+macrophage,AM_2,1
+macrophage,AI,2
+macrophage,AM_4,3
+macrophage,AM_IM1,4
+macrophage,IM_1,5
+macrophage,AM_MT,6
+macrophage,AM_2_exclusive,7
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+tissue,sp,path,name,sp_simple,tag
+Mtb,mouse,disease/Mtb_m_all_GSE167232,Mtb-m-all,m,all
+Mtb,macaque,disease/Mtb_ma_macrophage_delCD8_SCP642,Mtb-ma-macr,ma,macrophage
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,macrophage
+Mtb,macaque,disease/Mtb_COVID_merge_ma_macrophage,merge-ma-macr,ma,macrophage
+Mtb,macaque,disease/COVID_ma_macrophage_GSE217483,COVID-ma-macr,ma,macrophage
+Mtb,human,disease/Mtb_h_macrophage_GSE167232,Mtb-h-macr,h,macrophage

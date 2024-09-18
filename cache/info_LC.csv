@@ -1,0 +1,9 @@
+tissue,sp,path,name,sp_simple,tag
+LC,mouse,disease/LC_m_DendriticCells,LCmDCs,m,DendriticCells
+LC,mouse,disease/LC_m_Monocyte,LCmMono,m,Monocyte
+LC,human,disease/LC_h_DendriticCells,LChDCs,h,DendriticCells
+LC,human,disease/LC_h_Neutrophils,LChNeu,h,Neutrophils
+LC,human,disease/LC_h_allImm,LChall,h,allImm
+LC,mouse,disease/LC_m_Neutrophils,LCmNeu,m,Neutrophils
+LC,human,disease/LC_h_Monocyte,LChMono,h,Monocyte
+LC,mouse,disease/LC_m_allImm,LCmall,m,allImm

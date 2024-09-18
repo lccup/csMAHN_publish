@@ -1,0 +1,7 @@
+tissue,sp,path,name,sp_simple,tag
+COVID,h,disease/COVID_hu_GSE157344,COVID-hu,h,all
+COVID,h,disease/COVID_hu_GSE157344_mar,COVID-hu-mar,h,mar
+COVID,ma,disease/COVID_ma_GSE190659_imm,COVID-ma,ma,all
+COVID,ma,disease/COVID_ma_GSE190659_mar,COVID-ma-mar,ma,mar
+COVID,ma,disease/COVID_ma_GSE190659_imm_choice,COVID-ma-c,ma,all
+COVID,ma,disease/COVID_ma_GSE190659_mar_choice,COVID-ma-mar-c,ma,mar

@@ -1,0 +1,5 @@
+tissue,sp_ref,path_ref,name_ref,sp_simple_ref,sp_que,path_que,name_que,sp_simple_que,key_cell_type
+COVID,ma,disease/COVID_ma_GSE190659_imm,COVID-ma,ma,h,disease/COVID_hu_GSE157344,COVID-hu,h,cell_type
+COVID,ma,disease/COVID_ma_GSE190659_mar,COVID-ma-mar,ma,h,disease/COVID_hu_GSE157344_mar,COVID-hu-mar,h,sub_cell_type
+COVID,ma,disease/COVID_ma_GSE190659_imm_choice,COVID-ma-c,ma,h,disease/COVID_hu_GSE157344,COVID-hu,h,cell_type
+COVID,ma,disease/COVID_ma_GSE190659_mar_choice,COVID-ma-mar-c,ma,h,disease/COVID_hu_GSE157344_mar,COVID-hu-mar,h,sub_cell_type

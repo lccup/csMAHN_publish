@@ -1,0 +1,6 @@
+tissue,sp_ref,path_ref,name_ref,sp_simple_ref,sp_que,path_que,name_que,sp_simple_que,key_cell_type
+LN,human,disease/SLE_h_SDY997_imm_T,SLE_h_T,h,mouse,disease/merge_mouse_kideny_healthy_SLE_imm_T,merge_m_kidney_T,m,sub_cell_type
+LN,human,disease/SLE_h_SDY997_imm,SLE_h_imm,h,mouse,disease/merge_mouse_kideny_healthy_SLE_imm,merge_m_kidney_imm,m,cell_type
+LN,human,disease/SLE_h_SDY997_imm_B,SLE_h_B,h,mouse,disease/merge_mouse_kideny_healthy_SLE_imm_B,merge_m_kidney_B,m,sub_cell_type
+LN,human,disease/SLE_h_SDY997_imm_NK,SLE_h_NK,h,mouse,disease/merge_mouse_kideny_healthy_SLE_imm_NK,merge_m_kidney_NK,m,sub_cell_type
+LN,human,disease/SLE_h_SDY997_imm_mar,SLE_h_mar,h,mouse,disease/merge_mouse_kideny_healthy_SLE_imm_mar,merge_m_kidney_mar,m,sub_cell_type

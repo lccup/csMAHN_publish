@@ -1,0 +1,15 @@
+,tissue,sp,path,name,sp_simple,db,update
+2,Bone-Marrow,human,healty/HCL_Bone-Marrow,h_bon,h,HCL,240401-1109
+3,Bone-Marrow,mouse,healty/MCA_Bone-Marrow,m_bon,m,MCA,240401-1110
+4,Brain,human,healty/HCL_Brain,h_bra,h,HCL,240401-1110
+5,Brain,mouse,healty/MCA_Brain,m_bra,m,MCA,240401-1110
+6,Heart,human,healty/HCL_Heart,h_hea,h,HCL,240401-1110
+7,Heart,mouse,healty/MCA_Heart,m_hea,m,MCA,240401-1110
+8,Intestine,human,healty/HCL_Intestine,h_int,h,HCL,240401-1110
+9,Intestine,mouse,healty/MCA_Intestine,m_int,m,MCA,240401-1111
+10,Kidney,human,healty/HCL_Kidney,h_kid,h,HCL,240401-1111
+11,Kidney,mouse,healty/MCA_Kidney,m_kid,m,MCA,240401-1111
+12,Liver,human,healty/HCL_Liver,h_liv,h,HCL,240401-1111
+13,Liver,mouse,healty/MCA_Liver,m_liv,m,MCA,240401-1111
+18,Spleen,human,healty/HCL_Spleen,h_spl,h,HCL,240401-1111
+19,Spleen,mouse,healty/MCA_Spleen,m_spl,m,MCA,240401-1111

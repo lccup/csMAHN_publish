@@ -1,0 +1,5 @@
+tissue,sp_ref,path_ref,name_ref,sp_simple_ref,sp_que,path_que,name_que,sp_simple_que,key_cell_type
+LC,human,disease/LC_h_DendriticCells,LChDCs,h,mouse,disease/LC_m_DendriticCells,LCmDCs,m,sub_cell_type
+LC,human,disease/LC_h_Neutrophils,LChNeu,h,mouse,disease/LC_m_Neutrophils,LCmNeu,m,sub_cell_type
+LC,human,disease/LC_h_allImm,LChall,h,mouse,disease/LC_m_allImm,LCmall,m,cell_type
+LC,human,disease/LC_h_Monocyte,LChMono,h,mouse,disease/LC_m_Monocyte,LCmMono,m,sub_cell_type

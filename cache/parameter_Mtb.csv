@@ -1,0 +1,6 @@
+tissue,sp_ref,path_ref,name_ref,sp_simple_ref,sp_que,path_que,name_que,sp_simple_que,key_cell_type
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,human,disease/Mtb_h_macrophage_GSE167232,Mtb-h-macr,h,macr_cell_type
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,macaque,disease/Mtb_ma_macrophage_delCD8_SCP642,Mtb-ma-macr,ma,macr_cell_type
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,macaque,disease/COVID_ma_macrophage_GSE217483,COVID-ma-macr,ma,macr_cell_type
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,macaque,disease/COVID_ma_macrophage_GSE190659_choice,COVID-ma-macr-time-choice,ma,macr_cell_type
+Mtb,mouse,disease/Mtb_m_macrophage_GSE167232,Mtb-m-macr,m,macaque,disease/BCG_ma_W25_macr,BCG_ma_W25_macr,ma,macr_cell_type

@@ -1,0 +1,7 @@
+tissue,species1,species2,db1,db2,dsname1,dsname2
+pancreas,human,mouse,GSE84113,GSE84113,human,mouse
+lung,human,mouse,GSE127465,GSE127465,human_h,mouse_h
+lung,human,mouse,GSE127465,GSE127465,human_t,mouse_t
+testis,human,macaque,GSE142585,GSE142585,human,macaque
+retinal,mouse,zebrafish,jiewang,jiewang,mouse_ld_mean,zebrafish_ld_mean
+retinal,mouse,zebrafish,jiewang,jiewang,mouse_nmda_mean,zebrafish_nmda_mean
